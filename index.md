@@ -1,6 +1,6 @@
 ## Hongzheng Li （李洪政）
 
-<p align="center"><img src="https://github.com/lihongzheng-nlp/lihongzheng-nlp.github.io/blob/master/pic.JPG" alt="pic"></a></p>
+<p align="center"><img src="https://github.com/lihongzheng-nlp/lihongzheng-nlp.github.io/blob/master/pic.JPG" alt="pic"></p>
 
 Postdoc, Assistant Professor
 School of Computer Science, Beijing Institute of Technology
