@@ -1,4 +1,4 @@
-## Hongzheng Li（李洪政）
+Hongzheng Li（李洪政）
 lihongzheng@bit.edu.cn
 
 ## BIO
