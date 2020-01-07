@@ -1,8 +1,11 @@
-Hongzheng Li（李洪政）
+Hongzheng Li
+
+Postdoc in School of Computer Science, Beijing Institute of Technology
+
 lihongzheng@bit.edu.cn
 
 ## BIO
-Dr.Hongzheng Li received the PhD degree from Beijing Normal University in June, 2018.
+Dr.Hongzheng Li received his PhD degree from Beijing Normal University in June, 2018.
 
 ## RESEARCH INTERESTS
 Natural Language Processing, Machine Translation
