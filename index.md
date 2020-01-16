@@ -4,7 +4,7 @@ Postdoc, Assistant Professor
 School of Computer Science, Beijing Institute of Technology
 
 
-lihongzheng@bit.edu.cn
+<lihongzheng@bit.edu.cn>
 
 ## BIO
 Dr.Hongzheng Li is currently postdoc researcher in School of Computer Science, Beijing Institute of Technology. He received his PhD degree from Beijing Normal University in June, 2018. His research interests focus on Natural Language Processing, Machine Translation, Deep learning, etc.
