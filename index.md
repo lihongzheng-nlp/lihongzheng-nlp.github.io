@@ -1,8 +1,8 @@
 ## Hongzheng Li （李洪政）
 
 Postdoc, Assistant Professor
-School of Computer Science, Beijing Institute of Technology
 
+School of Computer Science, Beijing Institute of Technology
 
 <lihongzheng@bit.edu.cn>
 
