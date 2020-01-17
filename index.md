@@ -13,7 +13,7 @@
 Dr.Hongzheng Li（李洪政) is currently a postdoc researcher in School of Computer Science, Beijing Institute of Technology. He received his PhD degree from Beijing Normal University in June, 2018. His research interests focus on Natural Language Processing, Machine Translation, Deep learning, etc.
 
 ## EDUCATION
-- 2014.09-2018.06, PhD, Computational Linguistics, Institute of Chinese Information Processing, Beijing Normal University
+- <img src="https://github.com/lihongzheng-nlp/lihongzheng-nlp.github.io/raw/master/images/bnu.jpeg" width="100" height="100" /> 2014.09-2018.06, PhD, Computational Linguistics, Institute of Chinese Information Processing, Beijing Normal University
 - 2016.09-2017.09, visiting student, Department of Computer Science, University of Montreal
 - 2011.09-2014.06, MA, Computational Linguistics, Institute of Chinese Information Processing, Beijing Normal University
 - 2007.09-2011.06, BA, Chinese Language, School of Literature, Ludong University
