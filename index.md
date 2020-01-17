@@ -1,6 +1,6 @@
 ## Hongzheng Li （李洪政)
 
-<img src="https://github.com/lihongzheng-nlp/lihongzheng-nlp.github.io/raw/master/images/pic.jpg" alt="Mingsha Montain, October, 2019" width="250" height="300" />
+<img src="https://github.com/lihongzheng-nlp/lihongzheng-nlp.github.io/raw/master/images/pic.jpg" alt="Mingsha Montain, October, 2019" width="230" height="300" />
 Postdoc, Assistant Professor
 
 School of Computer Science, Beijing Institute of Technology
