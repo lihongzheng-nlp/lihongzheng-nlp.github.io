@@ -1,5 +1,5 @@
 ## Hongzheng Li （李洪政）
-<div align=left><img src="https://github.com/lihongzheng-nlp/lihongzheng-nlp.github.io/raw/master/images/pic.jpg", width="300" height="500" alt= "Mingsha Montain, October, 2019"/>
+<div align=left><img src="https://github.com/lihongzheng-nlp/lihongzheng-nlp.github.io/raw/master/images/pic.jpg", width="300" height="400" alt= "Mingsha Montain, October, 2019"/>
 
 Postdoc, Assistant Professor
 
