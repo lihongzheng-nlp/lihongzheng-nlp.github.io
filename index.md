@@ -1,6 +1,6 @@
 ## Hongzheng Li （李洪政)
 
-![Mingsha Montain, October, 2019]("https://github.com/lihongzheng-nlp/lihongzheng-nlp.github.io/raw/master/images/pic.jpg") 
+![Mingsha Montain, October, 2019] ("https://github.com/lihongzheng-nlp/lihongzheng-nlp.github.io/raw/master/images/pic.jpg") 
 
 Postdoc, Assistant Professor
 
