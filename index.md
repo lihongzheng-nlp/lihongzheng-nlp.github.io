@@ -1,14 +1,14 @@
-## Hongzheng Li
+**Hongzheng Li**
 
 <img src="https://github.com/lihongzheng-nlp/lihongzheng-nlp.github.io/raw/master/images/pic.jpg" alt="Mingsha Montain, October, 2019" width="230" height="300" />
 
-## Postdoc, Assistant Professor
+**Postdoc, Assistant Professor**
 
-## School of Computer Science, Beijing Institute of Technology
+**School of Computer Science, Beijing Institute of Technology**
 
-## Address:## No.5, Zhongguancun South Street, Haidian District, Beijing, P.R.C
+**Address:** No.5, Zhongguancun South Street, Haidian District, Beijing, P.R.C
 
-<lihongzheng@bit.edu.cn>
+**E-mail:** <lihongzheng@bit.edu.cn>
 
 ## BIO
 Dr.Hongzheng Li（李洪政) is currently a postdoc researcher in School of Computer Science, Beijing Institute of Technology. He received his PhD degree from Beijing Normal University in June, 2018. His research interests focus on Natural Language Processing, Machine Translation, Deep learning, etc.
