@@ -1,5 +1,5 @@
 ## Hongzheng Li （李洪政）
-![picture](https://github.com/lihongzheng-nlp/lihongzheng-nlp.github.io/blob/master/pic.jpg “Mingsha Mountain”)
+<div align=left><img src="/Users/lihongzheng/Desktop/pic.jpg", width="100" height="100" alt= "Mingsha Montain, October, 2019"/>
 
 Postdoc, Assistant Professor
 
