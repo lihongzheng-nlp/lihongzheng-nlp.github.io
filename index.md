@@ -31,8 +31,8 @@ Natural Language Processing, Machine Translation, Deep learning, etc.
 - Low-resouce Neural Machine Translation: A Survey. (2020). *Machine Translation*. (SCI)(under review)
 - 李洪政, 黄河燕.(2020). 利用反向翻译评价汉语-越南语低资源机器翻译. *电子学报*. (CCF-A Journal)(under review)
 - 李洪政, 冯冲, 黄河燕. (2020). 稀缺资源语言神经网络机器翻译研究综述. *自动化学报*. (CCF-A Journal)(under review)
-- **H.Z. Li**, H.Y. Huang.(2020). Evaluating Chinese-Vietnamese Low-resource Machine Translation with Back Translation. arXiv preprint, arXiv:2003.02197v2.<https://arxiv.org/pdf/2003.02197.pdf>
-- J.R. Zhang, **H.Z. Li**, S.M. Shi, et al. (2020). Dynamic Attention Aggregation with BERT for Neural Machine Translation. *Proceedings of International Joint Conference on Neural Networks(IJCNN2020)*.(Equal Contribution)(CCF-C)
+- **H.Z. Li**, H.Y. Huang.(2020). Evaluating Chinese-Vietnamese Low-resource Machine Translation with Back Translation. arXiv preprint, arXiv:2003.02197v2. <https://arxiv.org/pdf/2003.02197.pdf>
+- J.R. Zhang, **H.Z. Li**, S.M. Shi, et al. (2020). Dynamic Attention Aggregation with BERT for Neural Machine Translation. *Proceedings of International Joint Conference on Neural Networks (IJCNN2020)*.(Equal Contribution)(CCF-C)
 - Y. Zhang, C.Feng, **H.Z. Li**.(2019). Quality Estimation with Transformer and RNN Architectures. *Proceedings of China Conference of Machine Translation*.(EI)
 - Y. Qiu, **H.Z. Li**, S. Li, et al. (2018). Revisiting Correlations between Intrinsic and Extrinsic Evaluations of Word Embeddings. *Proceedings of China National Conference of Computational Linguistics (CCL)*.(**Best Paper**)(EI)
 - **李洪政**，晋耀红. (2017). 汉语介词短语自动识别研究综述. *中文信息学报*, 31(2):1-10.（北大核心）
