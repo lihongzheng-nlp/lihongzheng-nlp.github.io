@@ -19,7 +19,7 @@ Dr.Hongzheng Li（李洪政) is currently a Tenure-track Assistant Professor in 
 - <img src="https://github.com/lihongzheng-nlp/lihongzheng-nlp.github.io/raw/master/images/ld.jpg" width="50" height="50" /> 2007.09-2011.06, BA, Chinese Language, School of Literature, Ludong University
 
 ## RESEARCH INTERESTS
-Natural Language Processing, Machine Translation, Deep learning, etc.
+Natural Language Processing, Machine Translation, Corpus Linguistics, Deep learning, etc.
 
 ## RESEARCH PROJECTS
 1. PI, National Natural Science Foundation of China(NSFC)(NO.61902024)
@@ -29,7 +29,7 @@ Natural Language Processing, Machine Translation, Deep learning, etc.
 
 ## SELECTED PUBLICATIONS
 - Low-resouce Neural Machine Translation: A Survey. (2020). *Machine Translation*.(To be appeared.)
-- J.Sha, L. Zhou (周鹭琴), C. Feng (冯冲), **H.Z. Li**, T. Zhang, H. Hui. (2020). 面向司法领域的高质量开源藏汉平行语料库构建(A High-quality Open Source Tibetan-Chinese Parallel Corpus Construction of Judicial Domain). *Proceedings of the 19th Chinese National Conference on Computational Linguistics(CCL2020)*. (**Best Paper Award!**)(EI)
+- J.Sha, L. Zhou, C. Feng, **H.Z. Li**, et al. (2020). 面向司法领域的高质量开源藏汉平行语料库构建(A High-quality Open Source Tibetan-Chinese Parallel Corpus Construction of Judicial Domain). *Proceedings of the 19th Chinese National Conference on Computational Linguistics(CCL2020)*. (**Best Paper Award!**)(EI)
 - **H.Z. Li**，J. Sha, C. Shi. (2020). Revisiting Back-Translation for Low-Resource Machine Translation Between Chinese and Vietnamese. *IEEE ACCESS*. <https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9129718>
 - 李洪政, 冯冲, 黄河燕. (2020). 稀缺资源语言神经网络机器翻译研究综述. *自动化学报*. (EI, CCF-A Journal)
 - **H.Z. Li**, H.Y. Huang.(2020). Evaluating Chinese-Vietnamese Low-resource Machine Translation with Back Translation. arXiv preprint, arXiv:2003.02197v2. <https://arxiv.org/pdf/2003.02197.pdf>
