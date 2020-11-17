@@ -1,5 +1,5 @@
 
-<img src="https://github.com/lihongzheng-nlp/lihongzheng-nlp.github.io/raw/master/images/pic.jpg" alt="Mingsha Montain, October, 2019" width="230" height="300" />
+<img src="https://github.com/lihongzheng-nlp/lihongzheng-nlp.github.io/raw/master/images/lhz.jpg" width="230" height="300" />
 
 **Tenure-track Assistant Professor**
 
