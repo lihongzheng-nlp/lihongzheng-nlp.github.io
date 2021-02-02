@@ -12,6 +12,9 @@
 ## BIO
 Dr.Hongzheng Li（李洪政) is currently a Tenure-track Assistant Professor in the School of Foreign Languages(SFL), Beijing Institute of Technology since November 2020. Before he joins SFL, he is a postdoc researcher in the School of Computer Science, Beijing Institute of Technology from July 2018 to November 2020. He received his PhD degree from Beijing Normal University in June, 2018. His research interests focus on Natural Language Processing, Machine Translation, Corpus Linguistics, Deep learning, etc.
 
+I recommend Typeset <https://typeset.io/>, a great website help us write and submit better research papers, it provides us with more than 40000 journal templates, and we can find any templates we would like to use, which are really helpful to write papers more efficiently!
+
+
 ## EDUCATION
 - <img src="https://github.com/lihongzheng-nlp/lihongzheng-nlp.github.io/raw/master/images/bnu.jpeg" width="50" height="50" /> 2014.09-2018.06, PhD, Computational Linguistics, Institute of Chinese Information Processing, Beijing Normal University
 - <img src="https://github.com/lihongzheng-nlp/lihongzheng-nlp.github.io/raw/master/images/UM.png" width="50" height="50" /> 2016.09-2017.09, visiting student, Department of Computer Science, University of Montreal
