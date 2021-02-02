@@ -12,9 +12,6 @@
 ## BIO
 Dr.Hongzheng Li（李洪政) is currently a Tenure-track Assistant Professor in the School of Foreign Languages(SFL), Beijing Institute of Technology since November 2020. Before he joins SFL, he is a postdoc researcher in the School of Computer Science, Beijing Institute of Technology from July 2018 to November 2020. He received his PhD degree from Beijing Normal University in June, 2018. His research interests focus on Natural Language Processing, Machine Translation, Corpus Linguistics, Deep learning, etc.
 
-I recommend Typeset <https://typeset.io/>, a great website help us write and submit better research papers, it provides us with more than 40000 journal templates, and we can find any templates we would like to use, which are really helpful to write papers more efficiently!
-
-
 ## EDUCATION
 - <img src="https://github.com/lihongzheng-nlp/lihongzheng-nlp.github.io/raw/master/images/bnu.jpeg" width="50" height="50" /> 2014.09-2018.06, PhD, Computational Linguistics, Institute of Chinese Information Processing, Beijing Normal University
 - <img src="https://github.com/lihongzheng-nlp/lihongzheng-nlp.github.io/raw/master/images/UM.png" width="50" height="50" /> 2016.09-2017.09, visiting student, Department of Computer Science, University of Montreal
@@ -46,3 +43,6 @@ Natural Language Processing, Machine Translation, Corpus Linguistics, Deep learn
 - **H.Z. Li**, Y. Jin. (2016). Classifying Commas for Patent Machine Translation. *Proceedings of China Workshop on Machine Translation*.(EI)
 - **H.Z. Li**, Y. Jin. (2015). Identifying Prepositional Phrases in Chinese Patent Texts with Rule-based and CRF Methods. *Proceedings of 29th Pacific Asia Conference on Language, Information and Computation*. (EI)
 - **李洪政**,朱筠,晋耀红.(2015). 汉英专利机器翻译中动-介兼类词自动识别. *计算机工程与应用*, 51(11):6-11.（CSCD、北大核心）
+
+## USEFUL TOOLS
+I recommend Typeset (<https://typeset.io/>), a great website help us write and submit better research papers, it provides us with more than 40000 journal templates, and we can find any templates we would like to use, which are really helpful to write papers more efficiently!
