@@ -1,8 +1,9 @@
 
-<img src="https://github.com/lihongzheng-nlp/lihongzheng-nlp.github.io/raw/master/images/lhz.jpg" width="230" height="300" />
+<img src="https://github.com/lihongzheng-nlp/lihongzheng-nlp.github.io/raw/master/images/hz.jpg" width="230" height="300" />
 
 **Tenure-track Assistant Professor**
 
+**Key Laboratory of Language, Cognition and Computation(LCC), Ministry of Industry and Information Technology(MIIT)**
 **School of Foreign Languages, Beijing Institute of Technology**
 
 **Address:** No.5, Zhongguancun South Street, Haidian District, Beijing, P.R.C, 100081
@@ -10,7 +11,7 @@
 **E-mail:** <lihongzheng@bit.edu.cn>
 
 ## BIO
-Dr.Hongzheng Li（李洪政) is currently a Tenure-track Assistant Professor in the School of Foreign Languages(SFL), Beijing Institute of Technology since November 2020. Before he joins SFL, he is a postdoc researcher in the School of Computer Science, Beijing Institute of Technology from July 2018 to November 2020. He received his PhD degree from Beijing Normal University in June, 2018. His research interests focus on Natural Language Processing, Machine Translation, Corpus Linguistics, Deep learning, etc.
+Dr.Hongzheng Li（李洪政) is currently a Tenure-track Assistant Professor in the Key Laboratory of Language, Cognition and Computation, Ministry of Industry and Information Technology(MIIT), the School of Foreign Languages(SFL), Beijing Institute of Technology since November 2020. Before he joins SFL, he was a postdoc researcher in the School of Computer Science, Beijing Institute of Technology from July 2018 to November 2020. He received his PhD degree from Beijing Normal University in June, 2018. His research interests focus on Natural Language Processing, Machine Translation, Corpus Linguistics, Deep learning, etc.
 
 ## EDUCATION
 - <img src="https://github.com/lihongzheng-nlp/lihongzheng-nlp.github.io/raw/master/images/bnu.jpeg" width="50" height="50" /> 2014.09-2018.06, PhD, Computational Linguistics, Institute of Chinese Information Processing, Beijing Normal University
@@ -24,14 +25,12 @@ Natural Language Processing, Machine Translation, Corpus Linguistics, Deep learn
 ## RESEARCH PROJECTS
 1. PI, National Natural Science Foundation of China(NSFC)(NO.61902024)
 2. PI, China Postdoctoral Science Foundation (NO.2018M640069)
-3. Key Participant, the State Key Program of National Natural Science Foundation of China
-4. Key Participant, National Key R&D Program of China
+3. PI, University-Industry Collaborative Education Program, Ministry of Education(MOE).
 
 ## SELECTED PUBLICATIONS
-- Low-resouce Neural Machine Translation: A Survey. (2020). *Machine Translation*.(To be appeared.)
+- **李洪政**, 冯冲, 黄河燕. (2021). 稀缺资源语言神经网络机器翻译研究综述(A Survey on Low-resource Neural Machine Translation). *自动化学报*. (CCF-A Journal)
 - J.Sha, L. Zhou, C. Feng, **H.Z. Li**, et al. (2020). 面向司法领域的高质量开源藏汉平行语料库构建(A High-quality Open Source Tibetan-Chinese Parallel Corpus Construction of Judicial Domain). *Proceedings of the 19th Chinese National Conference on Computational Linguistics(CCL2020)*. (**Best Paper Award!**)(EI)
 - **H.Z. Li**，J. Sha, C. Shi. (2020). Revisiting Back-Translation for Low-Resource Machine Translation Between Chinese and Vietnamese. *IEEE ACCESS*. <https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9129718>
-- 李洪政, 冯冲, 黄河燕. (2020). 稀缺资源语言神经网络机器翻译研究综述. *自动化学报*. (EI, CCF-A Journal)
 - **H.Z. Li**, H.Y. Huang.(2020). Evaluating Chinese-Vietnamese Low-resource Machine Translation with Back Translation. arXiv preprint, arXiv:2003.02197v2. <https://arxiv.org/pdf/2003.02197.pdf>
 - J.R. Zhang, **H.Z. Li**, S.M. Shi, et al. (2020). Dynamic Attention Aggregation with BERT for Neural Machine Translation. *Proceedings of International Joint Conference on Neural Networks (IJCNN2020)*.(Equal Contribution)(CCF-C)
 - Y. Zhang, C.Feng, **H.Z. Li**.(2019). Quality Estimation with Transformer and RNN Architectures. *Proceedings of China Conference of Machine Translation*.(EI)
