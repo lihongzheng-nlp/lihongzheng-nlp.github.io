@@ -43,6 +43,3 @@ Natural Language Processing, Machine Translation, Corpus Linguistics, Deep learn
 - **H.Z. Li**, Y. Jin. (2016). Classifying Commas for Patent Machine Translation. *Proceedings of China Workshop on Machine Translation*.(EI)
 - **H.Z. Li**, Y. Jin. (2015). Identifying Prepositional Phrases in Chinese Patent Texts with Rule-based and CRF Methods. *Proceedings of 29th Pacific Asia Conference on Language, Information and Computation*. (EI)
 - **李洪政**,朱筠,晋耀红.(2015). 汉英专利机器翻译中动-介兼类词自动识别. *计算机工程与应用*, 51(11):6-11.（CSCD、北大核心）
-
-## USEFUL TOOLS
-I recommend Typeset (<https://typeset.io/>), a great website help us write and submit better research papers, it provides us with more than 40000 journal templates, and we can find any templates we would like to use, which are really helpful to write papers more efficiently!
