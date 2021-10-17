@@ -7,7 +7,7 @@
 
 **School of Foreign Languages, Beijing Institute of Technology**
 
-**Address:** No.5, Zhongguancun South Street, Haidian District, Beijing, P.R.C, 100081
+**Address:** Room 601, WenSi Building, Beijing Institute of Technology(Liangxiang Campus), Fangshan District, Beijing, P.R.C, 102488
 
 **E-mail:** <lihongzheng@bit.edu.cn>
 
