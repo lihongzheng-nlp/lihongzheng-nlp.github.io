@@ -12,9 +12,9 @@
 **E-mail:** <lihongzheng@bit.edu.cn>
 
 ## BIO
-Dr.Hongzheng Li（李洪政) is currently a Tenure-track Assistant Professor in the Key Laboratory of Language, Cognition and Computation, Ministry of Industry and Information Technology(MIIT)(<https://lcc.bit.edu.cn/>), the School of Foreign Languages(SFL), Beijing Institute of Technology since November 2020. 
+Dr.Hongzheng Li（李洪政) is currently a Tenure-track Assistant Professor in the Key Laboratory of Language, Cognition and Computation, Ministry of Industry and Information Technology(MIIT)(<https://lcc.bit.edu.cn/>), the School of Foreign Languages(SFL), Beijing Institute of Technology(BIT) since November 2020. 
 
-Before he joins SFL, he was a postdoc researcher in the School of Computer Science, Beijing Institute of Technology from July 2018 to November 2020. He received his PhD degree from Beijing Normal University in June, 2018. His research interests focus on Natural Language Processing, Machine Translation, Corpus Linguistics, Deep learning, etc.
+Before he joined SFL, he was a postdoc researcher in the School of Computer Science, BIT from July 2018 to November 2020. He received his PhD degree from Beijing Normal University in June, 2018. His research interests focus on Natural Language Processing, Machine Translation, Corpus Linguistics, Deep learning, etc.
 
 ## EDUCATION
 - <img src="https://github.com/lihongzheng-nlp/lihongzheng-nlp.github.io/raw/master/images/bnu.jpeg" width="50" height="50" /> 2014.09-2018.06, PhD, Computational Linguistics, Institute of Chinese Information Processing, Beijing Normal University
