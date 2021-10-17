@@ -4,6 +4,7 @@
 **Tenure-track Assistant Professor**
 
 **Key Laboratory of Language, Cognition and Computation(LCC), Ministry of Industry and Information Technology(MIIT)**
+
 **School of Foreign Languages, Beijing Institute of Technology**
 
 **Address:** No.5, Zhongguancun South Street, Haidian District, Beijing, P.R.C, 100081
