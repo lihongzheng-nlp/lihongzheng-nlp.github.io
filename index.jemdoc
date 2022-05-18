@@ -1,0 +1,75 @@
+# jemdoc: menu{MENU}{index.html} 
+\n
+== {{<span style="color:black;font-size:24pt;font-family:Songti SC">}}*Hongzheng Li (李 洪政)*{{</span>}}\n
+
+~~~
+{}{img_left}{images/hz.jpg}{alt text}{200}{250}
+\n
+*Pre-tenured Assistant Professor*\n 
+[https://sfl.bit.edu.cn/ School of Foreign Languages]\n
+[https://lcc.bit.edu.cn/ Key Laboratory of Language, Cognition and Computation(LCC), Ministry of Industry and Information Technology(MIIT)]\n
+[https://www.bit.edu.cn/en/ Beijing Institute of Technology]\n
+
+*Contact*:
+- Room 601, WenSi Building, Fangshan District, Beijing, China, 102488\n
+           
+*Email*: lihongzheng \[@\] bit\[DOT\] edu \[DOT\] cn
+
+~~~
+
+== BIO
+Dr.Hongzheng Li is currently a Pre-tenured Assistant Professor in the School of Foreign Languages(SFL), Beijing Institute of Technology(BIT) since November 2020.
+
+Before he joined SFL, he was a postdoc researcher in the School of Computer Science, BIT from July 2018 to November 2020. He received his PhD degree of Applied Linguistics(focus on Natural Language Processing) from Beijing Normal University in June, 2018.
+
+== Education
+- 2014.09-2018.06, PhD, Institute of Chinese Information Processing, Beijing Normal University
+- 2011.09-2014.06, MA, Institute of Chinese Information Processing, Beijing Normal University
+
+== Teaching
+*Graduate Courses*
+- Computer-Assisted Translation
+- Education Technology for Modern Languages
+
+*Undergraduate Courses*
+- Dissertation
+
+== Research Interests
+- Natural Language Processing
+- Machine Translation
+- Corpus Linguistics
+
+== Research Projects
+- National Natural Science Foundation of China(NSFC)(2020.01-2022.12)
+- University-Industry Collaborative Education Program, Ministry of Education(MOE)(2021.08-2023.08)
+- China Postdoctoral Science Foundation(2018.11-2020.11)
+
+#[research.html Find out more].
+== Selected Publications 
+*2021*
+- *Hongzheng Li*, Chong Feng, Heyan Huang. 稀缺资源语言神经网络机器翻译研究综述(A Survey on Low-resource Neural Machine Translation), /自动化学报/.(CCF-A Journal) \n
+
+*2020*
+- J.Sha, L. Zhou, C. Feng, *Hongzheng Li*, et al. 面向司法领域的高质量开源藏汉平行语料库构建(A High-quality Open Source Tibetan-Chinese Parallel Corpus Construction of Judicial Domain), /19th Chinese National Conference on Computational Linguistics(CCL2020)/.(Best Paper Award!)\n
+- *Hongzheng Li*, J. Sha, C. Shi. Revisiting Back-Translation for Low-Resource Machine Translation Between Chinese and Vietnamese, /IEEE ACCESS/. \n
+- J.R. Zhang, *Hongzheng Li*, S.M. Shi, et al. Dynamic Attention Aggregation with BERT for Neural Machine Translation, /International Joint Conference on Neural Networks (IJCNN2020)/.(CCF-C Conference)
+
+*2019*
+- Y.Zhang, C.Feng, *Hongzheng Li*. Quality Estimation with Transformer and RNN Architectures, /China Conference of Machine Translation(CCMT2019)/.
+
+*2018*
+
+- Y. Qiu, *Hongzheng Li*, S. Li, et al. Revisiting Correlations between Intrinsic and Extrinsic Evaluations of Word Embeddings, /China National Conference of Computational Linguistics (CCL2018)/.(Best Paper Award!)
+
+*2017*
+
+- *李洪政*,晋耀红.汉语介词短语自动识别研究综述./中文信息学报/.\n
+- *李洪政*,赵凯,胡韧奋等. 面向专利领域的汉英机器翻译融合系统./情报工程/.\n
+
+== Academic Service
+- Committee member of Chinese Information Processing Society of China(CIPS), Youth Working Committee; China Computer Federation(CCF)
+
+- *Conference Reviewer* \n
+-- IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+-- Transactions on Audio, Speech and Language Processing (TASLP)
+-- Transactions on Intelligent Systems and Technology (TIST)
