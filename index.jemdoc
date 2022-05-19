@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{index.html} 
+# jemdoc: nofooter 
 \n
 == {{<span style="color:black;font-size:24pt;font-family:Songti SC">}}*Hongzheng Li (李 洪政)*{{</span>}}\n
 
@@ -70,10 +70,10 @@ Before he joined SFL, he was a postdoc researcher in the School of Computer Scie
 - **H.Z. Li**, P. Langlais, Y. Jin.Translating Implicit Discourse Connectives Based on Cross-lingual Annotation and Alignment. /Workshop on Discourse Machine Translation of EMNLP/.\n
 
 *2016*
-**H.Z. Li**, Y. Jin.Classifying Commas for Patent Machine Translation. /China Workshop on Machine Translation(CWMT)/.
+- *H.Z. Li*, Y. Jin.Classifying Commas for Patent Machine Translation. /China Workshop on Machine Translation(CWMT)/.
 
 *2015*
-**李洪政**,朱筠,晋耀红.汉英专利机器翻译中动-介兼类词自动识别./计算机工程与应用/.
+- *李洪政*,朱筠,晋耀红.汉英专利机器翻译中动-介兼类词自动识别./计算机工程与应用/.
 
 == Academic Service
 - *Committee member* of Chinese Information Processing Society of China(CIPS), Youth Working Committee; China Computer Federation(CCF)
