@@ -232,23 +232,5 @@
 </li>
 </ul>
 </div>
-<script>
-/* 生成随机星星 */
-function createStars(){
-  const section=document.querySelector('.news-section');
-  if(!section) return;
-  const STAR_COUNT=10;                 // 星星数量，可自行调整
-  for(let i=0;i<STAR_COUNT;i++){
-    const s=document.createElement('div');
-    s.className='star';
-    s.style.left = Math.random()*100 + '%';
-    s.style.top  = -Math.random()*100 + 'vh';  // 先放到可视区上方
-    s.style.animationDuration = 6 + Math.random()*10 + 's';
-    s.style.animationDelay    = Math.random()*10 + 's';
-    section.appendChild(s);
-  }
-}
-window.addEventListener('load',createStars);
-</script>
 </body>
 </html>
