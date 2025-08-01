@@ -14,7 +14,40 @@
     .project-item img {
       margin-right: 10px;
     }
-  </style>
+/* News 区块排版 */
+.news-section {
+  position: relative;
+  padding: 40px 20px;
+  background:#000;          /* 深色底衬托星空 */
+  color:#fff;
+  overflow:hidden;
+  border-radius:8px;
+  margin-bottom:30px;
+}
+.news-list {
+  list-style-type:"★ ";
+  font-size:1rem;
+  line-height:1.6;
+  margin:0;
+  padding-left:1.2em;
+}
+
+/* 星星样式 */
+.star {
+  position:absolute;
+  width:2px; height:2px;
+  background:#fff;
+  border-radius:50%;
+  opacity:0;
+  animation:starFall linear infinite;
+}
+
+@keyframes starFall{
+  0%   {transform:translateY(-100vh) scale(0);  opacity:0;}
+  10%  {opacity:.9;}
+  100% {transform:translateY(100vh)  scale(.8); opacity:0;}
+}
+</style>
 <title></title>
 </head>
 <body>
@@ -44,22 +77,19 @@
 </td></tr></table>
 <h2>BIO</h2>
 <p style="line-height: 1.5;">Dr.Hongzheng Li is currently a tenured associate professor in the <b>School of Foreign Languages(SFL), Beijing Institute of Technology(BIT)</b>. He is also a researcher of the Key Laboratory of Language, Cognition and Computation(LCC), Ministry of Industry and Information Technology(MIIT). His research interests focus on Natural Language Processing(NLP) and Large Language Model(LLM), Corpus Linguistics, etc. </p>
-<p style="line-height: 1.5;"><b>He will recruit phD students since the spring semester in 2026. Students with a solid (Python) programming background and strong interest in NLP and computational linguistics are welcome! </b></p>
-
-  
-<li><p>Since 2025.01, tenured associate professor, SFL, BIT</p>
-</li>
-<li><p>2020.11-2024.12, pre-tenured assistant professor, SFL, BIT</p>
-</li>
-<li><p>2018.07-2020.10, Postdoc researcher, School of Computer Science, BIT</p>
-</li>
+<p style="line-height: 1.5;"><b>He will recruit phD students since September 2026. Excellent students with a solid (Python) programming background and strong interest in NLP and computational linguistics are welcome! He also provides Postdoc positions!</b></p>
+ 
+<p>Since 2025.01, tenured associate professor, SFL, BIT</p>
+<p>2020.11-2024.12, pre-tenured assistant professor, SFL, BIT</p>
+<p>2018.07-2020.10, Postdoc researcher, School of Computer Science, BIT</p>
 </ul>
 <h2 id="news">News</h2>
 
 <section class="news-section">
   <ul class="news-list">
     <!-- 最新学术活动示例；以后直接增删 <li> 即可 -->
-    <li><time datetime="2025-07-15">June, 2025</time> We have one paper accepted by CCL2025(中国计算语言学大会)</li>
+    <li><time>July, 2025, </time> Attending the 11th Training program for outstanding young and middle-aged scholars organized by the State Language Commission, Ministry of Education(MOE)</li>
+    <li><time>June, 2025, </time> We have one paper accepted by CCL2025!</li>
   </ul>
 </section>
 <h2>Education</h2>
@@ -188,8 +218,9 @@
 </ul>
 <h2>Academic Service</h2>
 <ul>
-<li><p><b>Committee member</b> of Chinese Information Processing Society of China(CIPS), Youth Working Committee; China Computer Federation(CCF)</p>
-</li>
+<li><p><b>Executive director</b> of the Reading Grading Committee, Society on Modernization of Chinese Language</p></li>
+<li><p><b>Member</b> of Youth Working Committee, Chinese Information Processing Society of China(CIPS)</p></li>
+<li><p><b>Executive member</b> of Natural Language Processing Technical Committee, China Computer Federation(CCF)</p></li>
 </ul>
 <ul>
 <li><p><b>Conference Reviewer</b> <br /></p>
@@ -201,5 +232,23 @@
 </li>
 </ul>
 </div>
+<script>
+/* 生成随机星星 */
+function createStars(){
+  const section=document.querySelector('.news-section');
+  if(!section) return;
+  const STAR_COUNT=10;                 // 星星数量，可自行调整
+  for(let i=0;i<STAR_COUNT;i++){
+    const s=document.createElement('div');
+    s.className='star';
+    s.style.left = Math.random()*100 + '%';
+    s.style.top  = -Math.random()*100 + 'vh';  // 先放到可视区上方
+    s.style.animationDuration = 6 + Math.random()*10 + 's';
+    s.style.animationDelay    = Math.random()*10 + 's';
+    section.appendChild(s);
+  }
+}
+window.addEventListener('load',createStars);
+</script>
 </body>
 </html>
